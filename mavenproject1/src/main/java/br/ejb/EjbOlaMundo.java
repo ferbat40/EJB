@@ -18,7 +18,7 @@ public class EjbOlaMundo {
     // "Insert Code > Add Business Method")
     
     public String getOie(){
-        return "oie EJB todo mundo usa";
-    }
+        return "oie EJB todo mundo usa porra";
+    } 
     
 }
